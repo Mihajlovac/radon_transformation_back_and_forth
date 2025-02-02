@@ -11,7 +11,7 @@ mu1 = 1  # cm^-1
 mu2 = 2  # cm^-1
 mu3 = 4  # cm^-1
 s = 0.1  # cm
-detector_size = 256
+detector_size = 512
 
 
 N = 180 # Broj projekcija
